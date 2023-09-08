@@ -33,7 +33,7 @@ public class HomeWork2 {
        // Sum of prices, taxes and cars quantity
         Total = Price + (Tax * quantity) + Sum;
 
-        System.out.println("Total = " +Total);
+        System.out.println("Total =  " +Total);
 
     }
 
