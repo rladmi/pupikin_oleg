@@ -80,14 +80,22 @@ public class HomeWork3 {
          //  i++;
         }
 */
-        // float c = 0;
-        // float d = 0;
+          float c=0;
+          float d;
 
        // for (int k = 0; k <= 0; k++) {
-            for (float i = 1; i <= 97; i+=2){
-                System.out.println(i/(i+2));
-            }
+            for (float i = 1; i <= 97; i+=2) {
+                d = i / (i + 2);
+                //c=d+c;
+                c += d;
+                //System.out.println();
 
+                    if (i == 97){
+                        System.out.println(c);
+                        break;
+                }
+
+            }
                 //if (i % 2 != 0 && i % 1 == 0)
             //System.out.println(i);
 
@@ -114,7 +122,7 @@ int j=3;
                 }
 
             }
-        //}
+
 
 
 
