@@ -66,61 +66,21 @@ public class HomeWork3 {
         }
 
 
-
-/*
- int i = 1;
- int  j = 3;
-        while (i < 97) {
-            if (i % 2 != 0 && i % 1 == 0)
-       // while (j < 99) {
-         //   if (j % 2 != 0 && j % 1 == 0)
-            i++;
-            System.out.println(i);
-        }
-         //  i++;
-        }
-*/
+// Sum of all iteration il last iteration
           float c=0;
           float d;
 
-       // for (int k = 0; k <= 0; k++) {
+
             for (float i = 1; i <= 97; i+=2) {
                 d = i / (i + 2);
-                //c=d+c;
-                c += d;
-                //System.out.println();
 
+                c += d;
                     if (i == 97){
                         System.out.println(c);
                         break;
                 }
-
             }
-                //if (i % 2 != 0 && i % 1 == 0)
-            //System.out.println(i);
-
-                 /*  for (int b = 0; b <= 0; b++)
-                        for (float j = 3; j <= 99; j++)
-                            if (j % 2 != 0 && j % 1 == 0)
-                                System.out.println(j);*/
-
-                        //  j++;
-
-/*int i=1;
-int j=3;
-        for (int k = 0; k < 1; k++) {
-            while (i <= 97 && j <= 99 && j % 2 != 0 && j % 1 == 0 && i % 2 != 0 && i % 1 == 0 ) {
-                System.out.println(i);
-                i++;*/
-
-
-           /* for (int k = 0; k <= 0; k++) {
-                for (float i = 1; i <= 97; i++) {
-                    for (float j = 3; j <= 99; j++)
-                    if (j % 2 != 0 && j % 1 == 0 && i % 2 != 0 && i % 1 == 0)
-                    System.out.println(i);*/
                 }
-
             }
 
 
