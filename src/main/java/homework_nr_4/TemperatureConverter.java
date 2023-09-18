@@ -5,22 +5,12 @@ public class TemperatureConverter {
 
 public static void main( String [] args ) {
 
-int x = 10;
+    TemperatureConverter celsiusTemperature = new TemperatureConverter(20);
+    TemperatureConverter fahrenheitTemperature = new TemperatureConverter(40.2F);
 
-System.out.println(toFahrenheit(x));
-System.out.println(toCelsius(x));
+    System.out.println( celsiusTemperature.toFahrenheit() + "F");
+    System.out.println( fahrenheitTemperature.toCelsius() + "C");
 }
-
-public static float toFahrenheit (int temp){
-    return temp * ( 9F / 5F ) + 32F;
-
-}
-
-public static float toCelsius (int temp) {
-    return (temp - 32) * (5F / 9F);
-
-}
-
 
 float temp;
 public float toFahrenheit (){
@@ -38,8 +28,6 @@ public float toCelsius () {
         this.temp = temp;
 
     }
-
-
 
 }
 

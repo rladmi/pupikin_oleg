@@ -1,0 +1,16 @@
+Index: src/test/java/Homework_nr_3/HomeWork3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Homework_nr_3;\n\npublic class HomeWork3 {\n\n    public static void main(String[] args) {\n\n        // Show month\n        int month = 2;\n\n        switch (month) {\n            case 1:\n                System.out.println(\"January\");\n                break;\n\n            case 2:\n                System.out.println(\"February\");\n                break;\n\n            case 3:\n                System.out.println(\"March\");\n                break;\n\n            case 4:\n                System.out.println(\"April\");\n                break;\n\n            case 5:\n                System.out.println(\"May\");\n                break;\n\n            case 6:\n                System.out.println(\"June\");\n                break;\n\n            case 7:\n                System.out.println(\"July\");\n                break;\n\n            case 8:\n                System.out.println(\"August\");\n                break;\n\n            case 9:\n                System.out.println(\"September\");\n                break;\n\n            case 10:\n                System.out.println(\"October\");\n                break;\n\n            case 11:\n                System.out.println(\"November\");\n                break;\n            case 12:\n                System.out.println(\"December\");\n                break;\n            default:\n                System.out.println(\"Invalid month day\");\n        }\n\n        for (float i = 100; i <= 1000; i++) {\n            if (i % 5 == 0) {\n                System.out.println(i);\n                i++;\n            }\n        }\n\n\n// Sum of all iteration il last iteration\n          float c=0;\n          float d;\n\n\n            for (float i = 1; i <= 97; i+=2) {\n                d = i / (i + 2);\n\n                c += d;\n                    if (i == 97){\n                        System.out.println(c);\n                        break;\n                }\n            }\n                }\n            }\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+===================================================================
+diff --git a/src/test/java/Homework_nr_3/HomeWork3.java b/src/test/java/Homework_nr_3/HomeWork3.java
+--- a/src/test/java/Homework_nr_3/HomeWork3.java	
++++ b/src/test/java/Homework_nr_3/HomeWork3.java	
+@@ -73,7 +73,6 @@
+ 
+             for (float i = 1; i <= 97; i+=2) {
+                 d = i / (i + 2);
+-
+                 c += d;
+                     if (i == 97){
+                         System.out.println(c);
