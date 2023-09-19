@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1200f25d-eb06-44c9-9828-cc0bbeddf91c" name="Changes" comment="homework 11-09">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_nr_4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_nr_4/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_nr_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_nr_4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +27,23 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "assignee": "rladmi",
-      "reviewState": "REQUIRED"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;rladmi&quot;,
+      &quot;reviewState&quot;: &quot;REQUIRED&quot;
     },
     {
-      "assignee": "rladmi",
-      "reviewState": "REQUIRED"
+      &quot;assignee&quot;: &quot;rladmi&quot;,
+      &quot;reviewState&quot;: &quot;REQUIRED&quot;
     }
   ],
-  "lastFilter": {
-    "assignee": "rladmi",
-    "reviewState": "REQUIRED"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;rladmi&quot;,
+    &quot;reviewState&quot;: &quot;REQUIRED&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -69,15 +67,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework__nr__4",
-    "onboarding.tips.debug.path": "/home/oleg/IdeaProjects/tekwill_homework/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homework__nr__4&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/oleg/IdeaProjects/tekwill_homework/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
