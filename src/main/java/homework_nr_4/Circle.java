@@ -2,7 +2,7 @@ package homework_nr_4;
 
 public class Circle {
     public static void main(String[] args) {
-        Circle area = new Circle(60);
+        Circle area = new Circle(50);
         System.out.println("Area of circle is = " + area.calculateArea());
 
     }
