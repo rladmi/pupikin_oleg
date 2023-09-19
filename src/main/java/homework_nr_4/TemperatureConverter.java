@@ -5,7 +5,7 @@ public class TemperatureConverter {
 
 public static void main( String [] args ) {
 
-    TemperatureConverter celsiusTemperature = new TemperatureConverter(20);
+    TemperatureConverter celsiusTemperature = new TemperatureConverter(50);
     TemperatureConverter fahrenheitTemperature = new TemperatureConverter(40.2F);
 
     System.out.println( celsiusTemperature.toFahrenheit() + "F");
