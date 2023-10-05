@@ -68,14 +68,14 @@ public class AffairsToDo {
             roEngDictionary.put("beautiful", "frumos");
 
             for (Map.Entry<String, String> vocabulary : roEngDictionary.entrySet()) {
-                System.out.println(vocabulary.getKey() + " : " + vocabulary.getValue());
+                System.out.println(vocabulary.getKey() + " -:- " + vocabulary.getValue());
 
             }
                 System.out.println("Vocabulary Ro - Eng");
 
             for (String element : roEngDictionary.keySet())
             {
-                System.out.println(element + " : " + roEngDictionary.get(element));
+                System.out.println(element + " -:- " + roEngDictionary.get(element));
             }
         }
     }
