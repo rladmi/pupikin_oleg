@@ -14,12 +14,12 @@ public class HomeWork2 {
     long CurrentWorldPopulation = 7811080815L;
     int CarsProducedThisYear = 55235358;
     char FirsLetterInAlphabet = 'A';
-    boolean JavalsAmazing = true;
+    boolean JavaIsAmazing = true;
     float Pi = 3.14159F;
 
     // Print out all variables
         System.out.println ("Current world population is = " +CurrentWorldPopulation+ "\n" + "Cars produced this year is = " +CarsProducedThisYear+ "\n" +FirsLetterInAlphabet+ "\n"
-                +JavalsAmazing+ "\n" +Pi
+                +JavaIsAmazing+ "\n" +Pi
         );
       //
       double Price, Tax, Sum, Total ;
