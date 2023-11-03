@@ -1,6 +1,6 @@
 package homework_nr_5;
 
-import java.sql.SQLOutput;
+
 
 public class HomeWorkNr5 {
 
@@ -14,8 +14,9 @@ public class HomeWorkNr5 {
         }
         int sum = 0;
         for (int index = 0; index != numbers.length; index++) {
-            if (numbers[index] % 2 == 0);
-            sum += numbers[index];
+            if (numbers[index] % 2 == 0) {
+                sum += numbers[index];
+            }
         }
 
         System.out.println("Sum of all numbers in array = " + sum);
