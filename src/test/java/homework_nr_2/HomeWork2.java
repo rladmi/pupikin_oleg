@@ -1,7 +1,5 @@
 package homework_nr_2;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
 
 public class HomeWork2 {
     public static void main(String[]args) {
@@ -36,9 +34,5 @@ public class HomeWork2 {
         System.out.println("Total =  " +Total);
 
     }
-
-
-
-
 
 }
